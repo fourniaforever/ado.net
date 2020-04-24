@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThreeLayers.Dao.Interfaces\ThreeLayers.Dao.Interfaces.csproj" />
+    <ProjectReference Include="..\ThreeLayers.Enteties\ThreeLayers.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

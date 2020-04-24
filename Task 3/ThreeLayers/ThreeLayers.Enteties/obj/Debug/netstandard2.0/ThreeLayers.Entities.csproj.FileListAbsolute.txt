@@ -1,0 +1,8 @@
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.deps.json
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.csprojAssemblyReference.cache
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.AssemblyInfoInputs.cache
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.AssemblyInfo.cs
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.pdb
