@@ -13,3 +13,21 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.csproj.CopyComplete
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.BLL.deps.json
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.BLL.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.BLL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.csproj.CopyComplete
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.DAL.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\bin\Debug\netstandard2.0\ThreeLayers.DAL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.BLL\obj\Debug\netstandard2.0\ThreeLayers.BLL.csproj.CoreCompileInputs.cache

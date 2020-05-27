@@ -9,3 +9,15 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstan
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.csproj.CopyComplete
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.deps.json
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.csproj.CopyComplete
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.BLL.Interfaces.csproj.CoreCompileInputs.cache

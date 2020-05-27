@@ -10,19 +10,19 @@ namespace ThreeLayers.Ioc
 {
     public class MyDependencyResolver
     {
-        private static IUserDao _userDao;
-        private static IUserDao UserDao => _userDao ?? (_userDao = new UserDAO());
+        private static IDishDao _userDao;
+        private static IDishDao UserDao => _userDao ?? (_userDao = new DishDAO());
 
 
-        private static IUserLogic _userLogic;
-        public static IUserLogic UserLogic => _userLogic ?? (_userLogic = new UserLogic(UserDao));
+        private static IGroupOfDishesLogic _userLogic;
+        public static IGroupOfDishesLogic UserLogic => _userLogic ?? (_userLogic = new UserLogic(UserDao));
 
-        private static IAwardDao _awardDao;
-        private static IAwardDao AwardDao => _awardDao ?? (_awardDao = new AwardDAO());
+        private static ICountriesDao _awardDao;
+        private static ICountriesDao AwardDao => _awardDao ?? (_awardDao = new CountriesDAO());
 
 
-        private static IAwardLogic _awardLogic;
-        public static IAwardLogic AwardLogic => _awardLogic ?? (_awardLogic = new AwardLogic(AwardDao));
+        private static IRateLogic _awardLogic;
+        public static IRateLogic AwardLogic => _awardLogic ?? (_awardLogic = new AwardLogic(AwardDao));
 
 
     }

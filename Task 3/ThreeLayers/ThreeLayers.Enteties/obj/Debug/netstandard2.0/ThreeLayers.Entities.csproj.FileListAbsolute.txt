@@ -6,3 +6,12 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstanda
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.AssemblyInfo.cs
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.deps.json
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.csproj.CoreCompileInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Enteties\obj\Debug\netstandard2.0\ThreeLayers.Entities.csprojAssemblyReference.cache

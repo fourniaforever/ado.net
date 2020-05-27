@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Interfaces\\ThreeLayers.BLL.Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Interfaces\\ThreeLayers.BLL.Interfaces.csproj",
       "projectName": "ThreeLayers.BLL.Interfaces",
-      "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Interfaces\\ThreeLayers.BLL.Interfaces.csproj",
+      "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Interfaces\\ThreeLayers.BLL.Interfaces.csproj",
       "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,8 +224,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
-              "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
+            "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
+              "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
             }
           }
         }
@@ -247,16 +247,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

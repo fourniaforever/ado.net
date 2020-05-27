@@ -15,10 +15,10 @@ namespace ThreeLayers
             var _userLogic = MyDependencyResolver.UserLogic;
             var _awardLogic = MyDependencyResolver.AwardLogic;
 
-            _userLogic.Add(new User("Ivan", new DateTime(2000, 3, 16))) ;
-            _userLogic.Add(new User("Anton", new DateTime(2002, 7, 23)));
-            _userLogic.Add(new User("Anna", new DateTime(1993, 1, 12)));
-            _userLogic.Add(new User("Andrey", new DateTime(1995, 12, 1)));
+            _userLogic.Add(new Products("Ivan", new DateTime(2000, 3, 16))) ;
+            _userLogic.Add(new Products("Anton", new DateTime(2002, 7, 23)));
+            _userLogic.Add(new Products("Anna", new DateTime(1993, 1, 12)));
+            _userLogic.Add(new Products("Andrey", new DateTime(1995, 12, 1)));
             
 
             _awardLogic.Add(new Award("За честь и отвагу"));

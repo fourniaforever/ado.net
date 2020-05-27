@@ -11,3 +11,17 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.csproj.CopyComplete
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.DAL.deps.json
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.DAL.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.DAL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.csproj.CopyComplete
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DAL\obj\Debug\netstandard2.0\ThreeLayers.DAL.csproj.CoreCompileInputs.cache

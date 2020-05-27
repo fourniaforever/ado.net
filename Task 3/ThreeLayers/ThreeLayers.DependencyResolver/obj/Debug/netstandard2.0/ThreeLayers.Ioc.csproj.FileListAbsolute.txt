@@ -17,3 +17,9 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.csproj.CopyComplete
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.DependencyResolver\obj\Debug\netstandard2.0\ThreeLayers.Ioc.csproj.CoreCompileInputs.cache

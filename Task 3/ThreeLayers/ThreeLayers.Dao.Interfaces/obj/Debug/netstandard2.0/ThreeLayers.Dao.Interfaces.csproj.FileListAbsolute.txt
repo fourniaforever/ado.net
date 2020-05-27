@@ -9,3 +9,15 @@ C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\net
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.csproj.CopyComplete
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.dll
 C:\Users\fourn\source\repos\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.deps.json
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Entities.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\bin\Debug\netstandard2.0\ThreeLayers.Entities.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.AssemblyInfoInputs.cache
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.AssemblyInfo.cs
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.csproj.CopyComplete
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.dll
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.pdb
+C:\Users\fourn\OneDrive\Документы\ado.net\Task 3\ThreeLayers\ThreeLayers.Dao.Interfaces\obj\Debug\netstandard2.0\ThreeLayers.Dao.Interfaces.csproj.CoreCompileInputs.cache

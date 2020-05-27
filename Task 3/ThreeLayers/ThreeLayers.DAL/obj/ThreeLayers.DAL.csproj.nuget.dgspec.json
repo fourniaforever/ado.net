@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj": {}
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj": {
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj",
         "projectName": "ThreeLayers.DAL",
-        "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj",
+        "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.DAL\\ThreeLayers.DAL.csproj",
         "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.DAL\\obj\\",
+        "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj"
+              "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj"
               },
-              "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
-                "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
+              "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
+                "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
               }
             }
           }
@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
             }
           },
           "imports": [
@@ -69,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj": {
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj",
         "projectName": "ThreeLayers.Dao.Interfaces",
-        "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj",
+        "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\ThreeLayers.Dao.Interfaces.csproj",
         "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Dao.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +99,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
-                "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
+              "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
+                "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj"
               }
             }
           }
@@ -131,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
         "projectName": "ThreeLayers.Entities",
-        "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
+        "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
         "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\obj\\",
+        "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

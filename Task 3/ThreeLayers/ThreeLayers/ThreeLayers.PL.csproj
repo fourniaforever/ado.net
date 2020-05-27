@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.7" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ThreeLayers.DependencyResolver\ThreeLayers.Ioc.csproj" />
     <ProjectReference Include="..\ThreeLayers.Enteties\ThreeLayers.Entities.csproj" />
   </ItemGroup>

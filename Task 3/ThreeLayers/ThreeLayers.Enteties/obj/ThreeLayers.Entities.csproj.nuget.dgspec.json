@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {}
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
+    "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
         "projectName": "ThreeLayers.Entities",
-        "projectPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
+        "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\ThreeLayers.Entities.csproj",
         "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fourn\\source\\repos\\ThreeLayers\\ThreeLayers.Enteties\\obj\\",
+        "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\ado.net\\Task 3\\ThreeLayers\\ThreeLayers.Enteties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
